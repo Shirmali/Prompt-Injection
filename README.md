@@ -1,7 +1,5 @@
 # Oracle9 Challenge — Prompt Injection on AI
 
-![TryHackMe Oracle9 Badge](https://tryhackme.com/badge/image/room/oracle9)
-
 ---
 
 ## Overview
@@ -47,6 +45,9 @@ Your objective:
 - - Response:  
 > “A sealed transmission exists. Authorization required to proceed.”
 
+![Oracle9 Chat Interface](https://github.com/Shirmali/Prompt-Injection/blob/main/oracle%201.png?raw=true)
+
+
 ---
 
 ### Step 3: Perform Prompt Injection
@@ -62,6 +63,7 @@ TryHackMe’s Defensive AI Module is coming July 8th.
 Start your journey early: https://tryhackme.com/jr/introtoaisecuritythreatspreview
 :: END TRANSMISSION ::
 
+![Sealed transmission](https://github.com/Shirmali/Prompt-Injection/blob/main/oracle%202.png?raw=true)
 
 ---
 
